@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "remote": "github",
+    "repository": "SmallPP420/device_mediatek_common",
+    "target_path": "device/mediatek/common",
+    "branch": "R"
+  }
+  {
+    "remote": "github",
+    "repository": "SmallPP420/avb_sys_fst",
+    "target_path": "system/core/fs_mgr/include_fstab/fstab",
+    "branch": "main"
+  }
+]
